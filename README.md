@@ -1,6 +1,6 @@
-## Hey there! I'm Francisco 👋
+## Hello World, I'm Francisco 👋
 
-I create digital experiences & I'm here to connect with inspiring daydreamers.
+I create virtual experiences & I'm here to connect with other day-dreamers
 
 ## 👨🏼‍💻 About me
 
@@ -8,15 +8,15 @@ I create digital experiences & I'm here to connect with inspiring daydreamers.
 Next, React, Context/Redux, Custom Hooks, Typescript, GSAP, RESTful APIs.
 
 🎨 Psychology of design as Axis and pixel-perfect for UI \
-User experience minded products -through a meticulous mind.
+User experience minded products, curated by a meticulous mind.
 
 🚀 Extreme ownership with a kaizen philosophy \
-Entrepreneur by vocation and a continuos improvement on my CI/CD dynamics.
+Entrepreneur by vocation, continuos improvement on my CI/CD dynamics.
 
 🐛 +5 XP on industry best practices \
 Creating maintainable, reliable, and scalable apps since 2018.
 
 ### Checkout my work
 
-Let's build something different! \
+Let's build the future together! 🦾 \
 👉🏽 [Linkedin](https://arrigoni.in/Linkedin/) | [Portfolio](https://arrigoni.in/Portfolio/) 👈🏽
