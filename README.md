@@ -13,7 +13,7 @@ User experience minded products, curated by a meticulous mind.
 🚀 Extreme ownership with a kaizen philosophy \
 Entrepreneur by vocation, continuos improvement on my CI/CD dynamics.
 
-🐛 +5 XP on industry best practices \
+🐛 +6 XP in the industry \
 Creating maintainable, reliable, and scalable apps since 2018.
 
 ### Checkout my work
